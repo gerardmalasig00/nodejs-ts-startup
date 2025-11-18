@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-ts-startup",
+  "version": "1.0.0",
+  "description": "NodeJS project startup with express, mongodb and t",
+  "main": "index.ts",
+  "author": "Gerardo Malasig",
+  "license": "MIT"
+}
